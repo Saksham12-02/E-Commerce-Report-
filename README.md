@@ -2,7 +2,7 @@
 # 🛒 E-Commerce Sales Analytics Dashboard – Power BI Project
 
 ## 📌 Overview
-This project presents an interactive **E-Commerce Performance Dashboard** built in **Microsoft Power BI** by **Saksham Kaila**.  
+This project presents an interactive **E-Commerce Performance Dashboard** built in **Microsoft Power BI** by **Saksham Kajla**.  
 The dashboard provides key insights into global sales performance, profits, shipping costs, product categories, and market segmentation across countries and regions.
 
 ---
